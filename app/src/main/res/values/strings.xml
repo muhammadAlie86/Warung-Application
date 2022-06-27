@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Warung Application</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_username">Enter Your Userame</string>
+    <string name="enter_your_address">Enter Your Addreess</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_tlp">Enter Your Tlp</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="enter_your_confirm_password">Enter Your Confirm Password</string>
+    <string name="register_succes">Register Succes</string>
+    <string name="register_failed">Register Failed</string>
+    <string name="login_successfully">Login Succesfully</string>
+    <string name="add_successfully">Add Succesfully</string>
+    <string name="edit_successfully">Edit Succesfully</string>
+    <string name="cari_koordinat">Cari Koordinat</string>
+    <string name="pilih_gambar">Pilih Gambar</string>
+
+    <string name="password_doesnt_match">Password Does not Match</string>
+
+    <string name="access_token">pk.eyJ1IjoiYXJpZmFpemluIiwiYSI6ImNrYTI2c3R1cjAwNXAzbm1zaDYyZW1ra2cifQ.okSWF0zf58rWkhoVuYjShQ</string>
+</resources>
